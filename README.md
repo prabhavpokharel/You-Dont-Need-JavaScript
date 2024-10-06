@@ -43,6 +43,7 @@ Please be aware that the demos may exhibit significant accessibility issues, suc
   - [Travelling Website](#travelling-website)
   - [Info on hover/ Popover](#info-on-hover-popover)
   - [Image Gallery](#image-gallery)
+  - [Image Hover Effect](#image-hover-effect)
   - [Interactive Image Gallery](#interactive-image-gallery)
   - [Loaders](#loaders)
   - [Dropdown Menu](#dropdown-menu)
@@ -126,6 +127,12 @@ Please be aware that the demos may exhibit significant accessibility issues, suc
   - [Contributors](#contributors)
   - [Contributing](#contributing)
 
+
+## <a id="Image-Hover-Effect"></a>Image Hover Effect
+
+[<img src="Image-Hover-Effect\image.png" height="230" title="Demo 1">](http://url-to-page)
+
+**[⬆ back to top](#quick-links)**
 
 ## <a id="toggle"></a>CSS Toggle
 
